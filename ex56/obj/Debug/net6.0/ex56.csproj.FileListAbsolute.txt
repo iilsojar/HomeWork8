@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/bin/Debug/net6.0/ex56
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/bin/Debug/net6.0/ex56.deps.json
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/bin/Debug/net6.0/ex56.runtimeconfig.json
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/bin/Debug/net6.0/ex56.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/bin/Debug/net6.0/ex56.pdb
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.AssemblyInfo.cs
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/refint/ex56.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.pdb
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ex56.genruntimeconfig.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex56/obj/Debug/net6.0/ref/ex56.dll
