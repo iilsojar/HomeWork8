@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/bin/Debug/net6.0/ex54
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/bin/Debug/net6.0/ex54.deps.json
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/bin/Debug/net6.0/ex54.runtimeconfig.json
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/bin/Debug/net6.0/ex54.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/bin/Debug/net6.0/ex54.pdb
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.AssemblyInfo.cs
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/refint/ex54.dll
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.pdb
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ex54.genruntimeconfig.cache
+/Users/mandis/Desktop/учеба/СиШарп/HomeWork8/ex54/obj/Debug/net6.0/ref/ex54.dll
